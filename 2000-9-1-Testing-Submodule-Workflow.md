@@ -1,6 +1,6 @@
 ---
 layout: project_template
-title: Smart Mirror
+title: Submodule Test
 description: Submodule Test
 date: 2020-8-30 09:00:00
 hero_image: /web/img/ProjectPhotos/MagicMirror
