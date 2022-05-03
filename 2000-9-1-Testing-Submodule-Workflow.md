@@ -3,8 +3,8 @@ layout: project_template
 title: Submodule Test
 description: Submodule Test
 date: 2020-8-30 09:00:00
-hero_image: _posts/SampleProject/2000-9-1-Testing-Submodule-Workflow.md
-image: 2000-9-1-Testing-Submodule-Workflow.md
+hero_image: _posts/SampleProject/open_house.png
+image: _posts/SampleProject/open_house.png
 hero_height: is-small
 hero_darken: true
 tags: project
