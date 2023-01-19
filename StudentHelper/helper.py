@@ -1,0 +1,1 @@
+print("Hello there! Welcome to the Amp Lab helper tool! How can I be of assistance?")
