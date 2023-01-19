@@ -1,7 +1,7 @@
 ---
 layout: project_template
-title: Submodule Test
-description: Submodule Test
+title: Sample Project
+description: Sample Project
 date: 2020-8-30 09:00:00
 hero_image: /web/img/SampleProject/open_house.png
 image: /web/img/SampleProject/open_house.png
@@ -16,7 +16,7 @@ show_sidebar: false
 
 
 ## Members
-Henry Forsyth, Computer Engineering Student (2023)
+Henry Forsyth, Computer Engineering Student (2024)
 rhforsythjr@vt.edu
 
 ## Repo Link
@@ -33,27 +33,40 @@ Complete
 
 ## Project Overview
 
-This project is born out of necessity for efficiency. For my personal 3D printer, I have an Ender 3 that interfaces with my computer through a well-known Raspberry Pi program: OctoPrint. Within the various protocols of Octoprint is a great video streaming feature for keeping track of the 3D printer regardless of distance from the printer. With that in mind, I thought I'd take it one step further: Why not have a smart mirror that you can ask, much like a Google Home or Amazon Alexa, for the status? Additionally, what if this mirror were able to service a whole Maker Studio of printers, allowing you to see printer "A" or printer "B" with just a short request? It seems like a fun IOT project, and I'm excited to see where this idea goes!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
 
 ## Educational Value Added
 
-I am learning how to wield the IOT, webhook, and local host protocols to leverage into a portal of control that is easy to interface with for a wide variety of products (in this case, 3D printers). This device could extend its functionality into smart home environments. 
-This project is being conducted, primarily, to learn how to develop with interconnected devices. Looking at the smart home market today, companies like Google and Amazon have started to augment their voice control interfaces (Amazon Echo and Google Home) with interfaces to "show"  (Amazon Echo Show, Google Nest Hub) data. My feeling is that these devices give users a multi-media experience of their data (visual and auditory). However, these devices are locked within their companies supporting environments, and not completely open to developers. By working on this project, I want to be able to create a completely open-source piece of hardware that works with IOT to provide smart home functionality, all while using a Google Home or Amazon Alexa to interface and control its screen. This would make it a Swiss Army Knife of a device, which I would be very interested to see. 
+Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
 
 ## Tasks
 
+<!-- Your Text Here. See Example above -->
+
 ## Design Decisions
+
+<!-- Your Text Here. See Example above -->
 
 ## Design Misc
 
+<!-- Your Text Here. See Example above -->
+
 ## Steps for Documenting Your Design Process
+
+<!-- Your Text Here. See Example above -->
 
 ## BOM + Component Cost
 
+<!-- Your Text Here. See Example above -->
+
 ## Timeline
+
+<!-- Your Text Here. See Example above -->
 
 ## Useful Links
 
+<!-- Your Text Here. See Example above -->
+
 ## Log
 
-
+<!-- Your Text Here. See Example above -->
