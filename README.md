@@ -2,17 +2,11 @@
 Henry Forsyth, Computer Engineering Student (2024)
 rhforsythjr@vt.edu
 
-## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
-
-## Photo
-{% include youtube.html video="miltuOLWDFQ" %}
-
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
+MENTOR NAME HERE
 
 ## Current Status
-Complete
+IN PROGRESS
 
 ## Project Overview
 
@@ -24,32 +18,32 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 
 ## Tasks
 
-<!-- Your Text Here. See Example above -->
+<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Design Decisions
 
-<!-- Your Text Here. See Example above -->
+<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Design Misc
 
-<!-- Your Text Here. See Example above -->
+<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. See Example above -->
+<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. See Example above -->
+<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Timeline
 
-<!-- Your Text Here. See Example above -->
+<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Useful Links
 
-<!-- Your Text Here. See Example above -->
+<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Log
 
-<!-- Your Text Here. See Example above -->
+<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
