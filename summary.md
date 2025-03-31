@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Mikhail Schneide
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+A simple 6-trit balanced ternary computer using custom CMOS logic gates.
 
 # Date Started
-11-16-2000
+11-30-2020
