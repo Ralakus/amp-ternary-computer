@@ -1,0 +1,30 @@
+= Tritium 6 ISA
+
+== Basic information
+[options="header"]
+|===
+|Features           |Value
+|word size          |6-trits
+|data bus size      |6-trits
+|address bus size   |12-trits
+|instruction length |12-trits
+|===
+
+== General Purpose Registers
+[options="header"]
+|===
+|Name|Address
+|A   |i
+|B   |0
+|C   |1
+|===
+
+== Control Registers
+[options="header"]
+|===
+|Name           |Address |Width |Description
+|error          |ii      |6     |Contains an error state, negative if error, zero if clear, positive if warning
+|carry          |i0      |1     |Contains the carry trit from the alu
+|stack pointer  |i1      |6     |Contains the current stack pointer
+|program counter|0i      |6     |Contains the current program counter
+|===

@@ -23,18 +23,18 @@ There are many projects similar to this but they either haven't gone very far, c
 A 6-trit computer that is cheap and simple to make where the instructions more closely resemble microcode rather than instructions.
 
 ==== Design Goals
-* Around or less than $250 in components
+* Around or less than $500 in components
 * Have the ability to communicate with binary components
 * Use easily sourcable parts
 * One clock cycle per instruction
 
 === Tritium-27
-A full scale computer that mirrors RISC-V in capability and instruction set.
+A full scale computer that mirrors RISC-V 32-bit in capability and instruction set.
 
 ==== Design Goals
-* Around or less than $1000 in components
+* Around or less than $2000 in components
 * Have the ability to communicate with binary components
 * Use easily sourcable parts
 
 == Current Status
-The gates from OSHPark came but I've hit a bit of a time and financial crunch so I don't quite have the time to work on the physical part of the project. I'm currently working with a local college professor to write up a better ISA than the previous versions for a machine that I could follow that wouldn't be too expensive to implement. I've decided that the decoding logic for the control module may be too expensive to implement so I will see if I can use a binary EEPROM using encoded balanced ternary as a lookup table and then convert the inputs back to native balanced ternary. 
+The project is in a bit of a limbo due to the lack of funding I have for the project. I've been going to a college and all of my money and resources has been going into that. I'm currently looking for possible funding sources I have for the project so I can continue developing it.
